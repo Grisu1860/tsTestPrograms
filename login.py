@@ -1,4 +1,4 @@
 name  = input("Wie ist Dein Name?")
 
-print(f"Guten Morgen {namne} ")
+print(f"Guten Tag {namne} ")
 
